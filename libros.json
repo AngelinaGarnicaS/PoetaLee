@@ -1,0 +1,2002 @@
+[
+ {
+   "id": 1,
+   "titulo": "Ismaelillo",
+   "id_autor": 1,
+   "portada": "img/Marti1.jpg",
+   "editorial": "Editorial Nacional",
+   "paginas": 150,
+   "año": 1882,
+   "sinopsis": "Una obra que refleja la relación entre Martí y su hijo, abordando temas de educación y valores."
+ },
+ {
+   "id": 2,
+   "titulo": "Versos Sencillos",
+   "id_autor": 1,
+   "portada": "img/Marti2.jpg",
+   "editorial": "Editorial Nacional",
+   "paginas": 100,
+   "año": 1891,
+   "sinopsis": "Poemas que expresan el amor por Cuba y la lucha por la libertad."
+ },
+ {
+   "id": 3,
+   "titulo": "La Edad de Oro",
+   "id_autor": 1,
+   "portada": "img/Marti3.jpg",
+   "editorial": "Editorial Nacional",
+   "paginas": 120,
+   "año": 1889,
+   "sinopsis": "Una colección de relatos y poemas para niños, promoviendo ideales de justicia y fraternidad."
+ },
+ {
+   "id": 4,
+   "titulo": "Los zapaticos de rosa",
+   "id_autor": 1,
+   "portada": "img/Marti4.jpg",
+   "editorial": "Vista",
+   "paginas": 40,
+   "año": 1889,
+   "sinopsis": "Narra la historia de Pilar, una niña adinerada, que sale a la playa con su madre. Pilar tiene unos hermosos zapaticos rosas que luego regala a una niña pobre y enferma, demostrando su bondad y compasión. "
+ },
+ {
+   "id": 5,
+   "titulo": "Nuestra América",
+   "id_autor": 1,
+   "portada": "img/Marti5.jpg",
+   "editorial": "Linkgua",
+   "paginas": 476,
+   "año": 1891,
+   "sinopsis": "Nuestra América es no solo un ensayo de José Martí. Es un vasto programa político y literario que el autor describe en una carta a su amigo Gonzalo de Quesada. En ella, a punto de irse a la Guerra por la Independencia de Cuba, delega en Quesada la publicación de su obra en una serie de volúmenes."
+ },
+ {
+   "id": 6,
+   "titulo": "Azul",
+   "id_autor": 2,
+   "portada": "img/Ruben1.jpg",
+   "editorial": "Editorial Hispanoame",
+   "paginas": 200,
+   "año": 1888,
+   "sinopsis": "Una colección de poemas que marca el inicio del modernismo en la poesía española."
+ },
+ {
+   "id": 7,
+   "titulo": "Prosas Profanas",
+   "id_autor": 2,
+   "portada": "img/Ruben2.jpg",
+   "editorial": "Editorial Hispanoame",
+   "paginas": 220,
+   "año": 1896,
+   "sinopsis": "Poemas que exploran temas de amor, belleza y la naturaleza humana."
+ },
+ {
+   "id": 8,
+   "titulo": "Cantos de Vida y Esperanza",
+   "id_autor": 2,
+   "portada": "img/Ruben3.jpg",
+   "editorial": "Editorial Hispanoame",
+   "paginas": 240,
+   "año": 1905,
+   "sinopsis": "Obra que refleja las preocupaciones existenciales y sociales del autor."
+ },
+ {
+   "id": 9,
+   "titulo": "El Canto Errante",
+   "id_autor": 2,
+   "portada": "img/Ruben4.jpg",
+   "editorial": "Editorial Hispanoame",
+   "paginas": 260,
+   "año": 1907,
+   "sinopsis": "Una serie de poemas que expresan la búsqueda de la belleza y la verdad."
+ },
+ {
+   "id": 10,
+   "titulo": "Triunfo de Calibán",
+   "id_autor": 2,
+   "portada": "img/Ruben5.jpg",
+   "editorial": "Linkgua",
+   "paginas": 36,
+   "año": 1898,
+   "sinopsis": "En esta obra el personaje de Calibán se convierte en una metáfora, política y cultural de la realidad y el malestar finisecular hispanoamericano. Para Darío, los personajes antagónicos shakesperianos, Calibán-Ariel representan al colonizador y al colonizado. Rubén Darío toma partido a favor del indígena esclavizado (Ariel) y reconoce en Calibán a la barbarie expansionista estadounidense."
+ },
+ {
+   "id": 11,
+   "titulo": "Ficciones",
+   "id_autor": 3,
+   "portada": "img/Jorge1.jpg",
+   "editorial": "Penguin Random House Grupo Editorial España",
+   "paginas": 208,
+   "año": 1944,
+   "sinopsis": "Pensé en un laberinto, en un sinuoso laberinto creciente que abarcara el pasado y el porvenir y que implicara de algún modo los astros. Aquí se encuentran lo policiaco ( «La muerte y la brújula») y lo fantástico ( «La lotería en Babilonia»), lo irreal ( «Las ruinas circulares») y lo imaginario ( «Tlön, Uqbar, Orbis Tertius»), el que Borges consideró acaso su mejor cuento ( «El Sur») y uno de los comienzos más cautivadores de un relato jamás escrito ( «Nadie lo vio desembarcar en la unánime noche»)."
+ },
+ {
+   "id": 12,
+   "titulo": "El Aleph",
+   "id_autor": 3,
+   "portada": "img/Jorge2.jpg",
+   "editorial": "Penguin Random House Grupo Editorial España",
+   "paginas": 224,
+   "año": 1949,
+   "sinopsis": "Cuentos que revelan la irracionalidad y lo fantástico en la vida cotidiana."
+ },
+ {
+   "id": 13,
+   "titulo": "El Libro de los Seres Imaginarios",
+   "id_autor": 3,
+   "portada": "img/Jorge3.jpg",
+   "editorial": "DEBOLS!LLO",
+   "paginas": 240,
+   "año": 1957,
+   "sinopsis": "En este libro el escritor plantea un homenaje a los bestiarios medievales. Con ironía, erudición e inteligencia Jorge Luis Borges lleva a los lectores por los pasadizos históricos de la imaginación, revelando formas y seres insólitos que van desde el hipogrifo concebido por los griegos como una mezcla de águila, león y serpiente hasta un monstruo informe solo soñado por Kafka. Este extraordinario viaje por la historia literaria es también una exploración de las obsesiones, los miedos y los anhelos de la humanidad."
+ },
+ {
+   "id": 14,
+   "titulo": "Libro de sueños",
+   "id_autor": 3,
+   "portada": "img/Jorge4.jpg",
+   "editorial": "Penguin Random House Grupo Editorial España",
+   "paginas": 256,
+   "año": 1976,
+   "sinopsis": "En este volumen, Borges presenta relatos de paisaje onírico de distintas épocas y documenta lo que ha soñado el hombre desde que es hombre, discurriendo por el sendero que va de las primeras civilizaciones a Kafka, revisando los trances proféticos del Antiguo Testamento, las epopeyas clásicas o la filosofía china. Una fabulosa antología, en definitiva, que consagra el sueño como el más antiguo y complejo de los géneros literarios."
+ },
+ {
+   "id": 15,
+   "titulo": "El libro de arena",
+   "id_autor": 3,
+   "portada": "img/Jorge5.jpg",
+   "editorial": "Penguin Random House Grupo Editorial España",
+   "paginas": 160,
+   "año": 1975,
+   "sinopsis": "El libro de arena es una obra esencial de Borges, uno de los autores latinoamericanos más influyentes del siglo XX, ganador del Premio Cervantes y del Nacional de Literatura. Trece piezas magistrales -la mayoría del género fantástico- que indagan en sus grandes temas y obsesiones."
+ },
+ {
+   "id": 16,
+   "titulo": "De qué callada manera",
+   "id_autor": 4,
+   "portada": "img/Nicolas1.jpg",
+   "editorial": "RUTH",
+   "paginas": 53,
+   "año": 1930,
+   "sinopsis": "Es una amplia selección de la obra poética de Nicolás Guillén, dedicada al amor, aparecida en varios de sus poemarios. Toma el título del primer verso de uno de sus más hermosos poemas. Esta antología se diferencia de las anteriores por la mayor cantidad de poemas y la estructuración del conjunto en una especie de diacronía simbólica, una suerte de «cronología» de una potencial relación amorosa, vista en partes o instancias, que significan «momentos» de esa relación."
+ },
+ {
+   "id": 17,
+   "titulo": "Las grandes elegías y otros poemas",
+   "id_autor": 4,
+   "portada": "img/Nicolas2.jpg",
+   "editorial": "Biblioteca Ayacucho",
+   "paginas": 454,
+   "año": 1931,
+   "sinopsis": "Poemas que celebran la cultura negra y la lucha por la justicia."
+ },
+ {
+   "id": 18,
+   "titulo": "Poemas de amor",
+   "id_autor": 4,
+   "portada": "img/Nicolas3.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 160,
+   "año": 1934,
+   "sinopsis": "Obra que aborda temas de racismo y la identidad afro-cubana."
+ },
+ {
+   "id": 19,
+   "titulo": "Sóngoro cosongo con motivos de son",
+   "id_autor": 4,
+   "portada": "img/Nicolas4.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 180,
+   "año": 1937,
+   "sinopsis": "Poemas que reflexionan sobre la guerra y la paz."
+ },
+ {
+   "id": 20,
+   "titulo": "Cantos para soldados y sones para turistas",
+   "id_autor": 4,
+   "portada": "img/Nicolas5.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 30,
+   "año": 1958,
+   "sinopsis": "Una serie de poemas que exploran la naturaleza humana y la sociedad."
+ },
+ {
+   "id": 21,
+   "titulo": "Veinte Poemas de Amor y una Canción Desesperada",
+   "id_autor": 5,
+   "portada": "img/Neruda1.jpg",
+   "editorial": "Editorial Nascimento",
+   "paginas": 100,
+   "año": 1924,
+   "sinopsis": "Una colección de poemas que exploran el amor y la melancolía."
+ },
+ {
+   "id": 22,
+   "titulo": "Libro de las preguntas",
+   "id_autor": 5,
+   "portada": "img/Neruda2.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 80,
+   "año": 1950,
+   "sinopsis": "El libro de las preguntas es sin duda una de las más originales obras de la etapa final del gran poeta. Un único recurso expresivo, la pregunta constante, sostiene la sucesión deslumbrante de imágenes que devuelven a la poesía su función primigenia: interrogar el mundo. Incluso cuando el poema canta las cóleras, vejaciones y cicatrices de la historia, lo dominante en estas páginas es su asombrosa vitalidad, la insurgencia del sentido lúdico y un humor surreal que comulga con los enigmas de la naturaleza."
+ },
+ {
+   "id": 23,
+   "titulo": "Canto general",
+   "id_autor": 5,
+   "portada": "img/Neruda3.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 493,
+   "año": 1950,
+   "sinopsis": "Canto general es el décimo poemario de Pablo Neruda, premio Nobel de literatura chileno, publicado por primera vez en México, en los Talleres Gráficos de la Nación, en 1950, y que empezó a componer en 1938."
+ },
+ {
+   "id": 24,
+   "titulo": "Crepusculario",
+   "id_autor": 5,
+   "portada": "img/Neruda4.jpg",
+   "editorial": "Seix Barral Chile",
+   "paginas": 72,
+   "año": 1923,
+   "sinopsis": "A principios de los años veinte, un estudiante pobre —recién llegado a Santiago desde el sur— trabajaba su primer libro en una modesta pensión de la calle Maruri: “En las tardes, al ponerse el sol, frente al balcón se desarrollaba un espectáculo diario que yo no me perdía por nada del mundo. Era la puesta de sol con grandiosos hacinamientos de colores, repartos de luz, abanicos inmensos de anaranjado y escarlata. El capítulo central de mi libro se llama «Los crepúsculos de Maruri». Nadie me ha preguntado nunca qué es eso de Maruri. Tal vez muy pocos sepan que se trata apenas de una humilde calle visitada por los más extraordinarios crepúsculos”."
+ },
+ {
+   "id": 25,
+   "titulo": "Cien sonetos de amor",
+   "id_autor": 5,
+   "portada": "img/Neruda5.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 113,
+   "año": 1964,
+   "sinopsis": "Cúspide, desde la perspectiva de la plenitud de la edad, de la poesía amorosa nerudiana, estos Cien sonetos de amor sorprenden ante todo por el contraste entre la palpitación de la palabra y la imagen, y la deliberada elección de una desnudez que rehúye los prestigios sonoros o constructivos del soneto clásico."
+ },
+ {
+   "id": 26,
+   "titulo": "El laberinto de la soledad",
+   "id_autor": 6,
+   "portada": "img/Paz1.jpg",
+   "editorial": "Fondo de Cultura Eco",
+   "paginas": 200,
+   "año": 1950,
+   "sinopsis": "Reflexión profunda sobre la identidad mexicana y su historia."
+ },
+ {
+   "id": 27,
+   "titulo": "El arco y la lira",
+   "id_autor": 6,
+   "portada": "img/Paz2.jpg",
+   "editorial": "Fondo de Cultura Eco",
+   "paginas": 300,
+   "año": 1960,
+   "sinopsis": "Las reflexiones de Octavio Paz sobre el fenómeno poético, su lugar en la historia y, singularmente, en nuestra época y en nuestra vida personal son en buena parte el testimonio que el poeta da acerca de una cuestión nunca dilucidada del todo."
+ },
+ {
+   "id": 28,
+   "titulo": "Piedra de sol",
+   "id_autor": 6,
+   "portada": "img/Paz3.jpg",
+   "editorial": "Fondo de Cultura Eco",
+   "paginas": 180,
+   "año": 1957,
+   "sinopsis": "Poema largo que aborda el tiempo, el amor y la muerte."
+ },
+ {
+   "id": 29,
+   "titulo": "La llama doble",
+   "id_autor": 6,
+   "portada": "img/Paz4.jpg",
+   "editorial": "Fondo de Cultura Eco",
+   "paginas": 220,
+   "año": 1993,
+   "sinopsis": "Ensayo sobre el amor y el erotismo en diversas culturas."
+ },
+ {
+   "id": 30,
+   "titulo": "La rama",
+   "id_autor": 6,
+   "portada": "img/Paz5.jpg",
+   "editorial": "Fondo de Cultura Eco",
+   "paginas": 30,
+   "año": 1990,
+   "sinopsis": "Reflexiones sobre la poesía y la historia contemporánea."
+ },
+ {
+   "id": 31,
+   "titulo": "Paradiso",
+   "id_autor": 7,
+   "portada": "img/Lezama1.jpg",
+   "editorial": "Editorial Seix Barra",
+   "paginas": 400,
+   "año": 1966,
+   "sinopsis": "Novela compleja que explora la vida de un joven en Cuba."
+ },
+ {
+   "id": 32,
+   "titulo": "La expresión americana",
+   "id_autor": 7,
+   "portada": "img/Lezama2.jpg",
+   "editorial": "Instituto Cubano del",
+   "paginas": 150,
+   "año": 1957,
+   "sinopsis": "Ensayos sobre la identidad cultural de América Latina."
+ },
+ {
+   "id": 33,
+   "titulo": "Oppiano Licario",
+   "id_autor": 7,
+   "portada": "img/Lezama3.jpg",
+   "editorial": "Editorial Letras Cub",
+   "paginas": 180,
+   "año": 1988,
+   "sinopsis": "Selección de textos que abordan la historia y cultura cubana."
+ },
+ {
+   "id": 34,
+   "titulo": "La cantidad hechizada",
+   "id_autor": 7,
+   "portada": "img/Lezama4.jpg",
+   "editorial": "Editorial Letras Cub",
+   "paginas": 200,
+   "año": 1985,
+   "sinopsis": "Estudio sobre la figura del hombre en la literatura."
+ },
+ {
+   "id": 35,
+   "titulo": "Enemigo rumor",
+   "id_autor": 7,
+   "portada": "img/Lezama5.jpg",
+   "editorial": "Editorial Letras Cub",
+   "paginas": 220,
+   "año": 1987,
+   "sinopsis": "Reflexiones sobre la poesía y la cultura cubana."
+ },
+ {
+   "id": 36,
+   "titulo": "Antología poética",
+   "id_autor": 8,
+   "portada": "img/Huerta1.jpg",
+   "editorial": "Taller Fábula",
+   "paginas": 120,
+   "año": 1935,
+   "sinopsis": "Primer libro de poemas que marcó su estilo único."
+ },
+ {
+   "id": 37,
+   "titulo": "Poesía completa",
+   "id_autor": 8,
+   "portada": "img/Huerta2.jpg",
+   "editorial": "Fondo de Cultura Eco",
+   "paginas": 300,
+   "año": 1960,
+   "sinopsis": "Colección de poemas que exploran temas de soledad y libertad."
+ },
+ {
+   "id": 38,
+   "titulo": "Poemas prohibidos y de amor",
+   "id_autor": 8,
+   "portada": "img/Huerta3.jpg",
+   "editorial": "Fondo de Cultura Eco",
+   "paginas": 250,
+   "año": 1965,
+   "sinopsis": "Poemas que abordan el amor y la muerte."
+ },
+ {
+   "id": 39,
+   "titulo": "Transa poética",
+   "id_autor": 8,
+   "portada": "img/Huerta4.jpg",
+   "editorial": "Fondo de Cultura Eco",
+   "paginas": 220,
+   "año": 1970,
+   "sinopsis": "Reflexiones sobre la muerte y la existencia."
+ },
+ {
+   "id": 40,
+   "titulo": "Estampida de poemínimos",
+   "id_autor": 8,
+   "portada": "img/Huerta5.jpg",
+   "editorial": "Fondo de Cultura Eco",
+   "paginas": 200,
+   "año": 1985,
+   "sinopsis": "Estudio sobre la figura del hombre en la literatura."
+ },
+ {
+   "id": 41,
+   "titulo": "Trilce",
+   "id_autor": 9,
+   "portada": "img/Cesar1.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 100,
+   "año": 1919,
+   "sinopsis": "Primer libro de poemas que marcó su estilo único."
+ },
+ {
+   "id": 42,
+   "titulo": "Los heraldos negros",
+   "id_autor": 9,
+   "portada": "img/Cesar2.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 150,
+   "año": 1922,
+   "sinopsis": "Colección de poemas que exploran temas de soledad y libertad."
+ },
+ {
+   "id": 43,
+   "titulo": "Poemas humanos",
+   "id_autor": 9,
+   "portada": "img/Cesar3.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 200,
+   "año": 1939,
+   "sinopsis": "Poemas que abordan el amor y la muerte."
+ },
+ {
+   "id": 44,
+   "titulo": "España, aparta de mí este cáliz",
+   "id_autor": 9,
+   "portada": "img/Cesar4.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 180,
+   "año": 1939,
+   "sinopsis": "Reflexiones sobre la guerra civil española."
+ },
+ {
+   "id": 45,
+   "titulo": "Paco Yunque",
+   "id_autor": 9,
+   "portada": "img/Cesar5.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 220,
+   "año": 1939,
+   "sinopsis": "Reflexiones sobre la muerte y la existencia."
+ },
+ {
+   "id": 46,
+   "titulo": "La tregua",
+   "id_autor": 10,
+   "portada": "img/Mario1.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 150,
+   "año": 1960,
+   "sinopsis": "Novela que narra la vida de un hombre viudo y su relación con una joven."
+ },
+ {
+   "id": 47,
+   "titulo": "Primavera con una esquina rota",
+   "id_autor": 10,
+   "portada": "img/Mario2.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 200,
+   "año": 1965,
+   "sinopsis": "Proyecta desde distintas perspectivas visiones contrastantes del pais de la anoranza y logra, mediante un estilo directo y contundente, transmitir la nostalgia y los multiples sentimientos del destierro, que van del inmediato dolor a la esperanzada felicidad."
+ },
+ {
+   "id": 48,
+   "titulo": "La noche de los feos",
+   "id_autor": 10,
+   "portada": "img/Mario3.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 180,
+   "año": 1988,
+   "sinopsis": "Relato sobre la vida de un hombre común."
+ },
+ {
+   "id": 49,
+   "titulo": "Quién de nosotros",
+   "id_autor": 10,
+   "portada": "img/Mario4.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 220,
+   "año": 1993,
+   "sinopsis": "Reflexiones sobre la vida y la muerte."
+ },
+ {
+   "id": 50,
+   "titulo": "El amor, las mujeres y la vida",
+   "id_autor": 10,
+   "portada": "img/Mario5.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 250,
+   "año": 1984,
+   "sinopsis": "Poemas que abordan temas de amor y desarraigo."
+ },
+ {
+   "id": 51,
+   "titulo": "Altazor",
+   "id_autor": 11,
+   "portada": "img/Vicente1.jpg",
+   "editorial": "Editorial Nascimento",
+   "paginas": 180,
+   "año": 1931,
+   "sinopsis": "Poema vanguardista que desafía las estructuras del lenguaje."
+ },
+ {
+   "id": 52,
+   "titulo": "Temblor de cielo",
+   "id_autor": 11,
+   "portada": "img/Vicente2.jpg",
+   "editorial": "Editorial Nascimento",
+   "paginas": 140,
+   "año": 1931,
+   "sinopsis": "Prosa poética surrealista que explora el amor y el misticismo."
+ },
+ {
+   "id": 53,
+   "titulo": "Canciones en la noche",
+   "id_autor": 11,
+   "portada": "img/Vicente3.jpg",
+   "editorial": "Editorial Nascimento",
+   "paginas": 200,
+   "año": 1923,
+   "sinopsis": "Novela simbólica sobre el poder y la alquimia."
+ },
+ {
+   "id": 54,
+   "titulo": "La gruta del silencio",
+   "id_autor": 11,
+   "portada": "img/Vicente4.jpg",
+   "editorial": "Editorial Chileaméri",
+   "paginas": 120,
+   "año": 1918,
+   "sinopsis": "Versos fríos y cósmicos, de su primera etapa."
+ },
+ {
+   "id": 55,
+   "titulo": "Ecuatorial",
+   "id_autor": 11,
+   "portada": "img/Vicente5.jpg",
+   "editorial": "Editorial Chileaméri",
+   "paginas": 100,
+   "año": 1918,
+   "sinopsis": "Poema largo que evoca imágenes tropicales y visionarias."
+ },
+ {
+   "id": 56,
+   "titulo": "Los detectives salvajes",
+   "id_autor": 12,
+   "portada": "img/Roberto1.jpg",
+   "editorial": "Editorial Anagrama",
+   "paginas": 600,
+   "año": 1998,
+   "sinopsis": "Novela de culto sobre el realismo visceral y dos poetas errantes."
+ },
+ {
+   "id": 57,
+   "titulo": "2666",
+   "id_autor": 12,
+   "portada": "img/Roberto2.jpg",
+   "editorial": "Editorial Anagrama",
+   "paginas": 900,
+   "año": 2004,
+   "sinopsis": "Obra monumental sobre el mal, la literatura y la historia."
+ },
+ {
+   "id": 58,
+   "titulo": "Estrella distante",
+   "id_autor": 12,
+   "portada": "img/Roberto3.jpg",
+   "editorial": "Editorial Anagrama",
+   "paginas": 160,
+   "año": 1996,
+   "sinopsis": "Narración sobre un poeta asesino y la dictadura chilena."
+ },
+ {
+   "id": 59,
+   "titulo": "Nocturno de Chile",
+   "id_autor": 12,
+   "portada": "img/Roberto4.jpg",
+   "editorial": "Editorial Anagrama",
+   "paginas": 144,
+   "año": 2000,
+   "sinopsis": "Relato confesional de un cura implicado con el régimen."
+ },
+ {
+   "id": 60,
+   "titulo": "Llamadas telefónicas",
+   "id_autor": 12,
+   "portada": "img/Roberto5.jpg",
+   "editorial": "Editorial Anagrama",
+   "paginas": 300,
+   "año": 2011,
+   "sinopsis": "Novela inconclusa con personajes de otras obras de Bolaño."
+ },
+ {
+   "id": 61,
+   "titulo": "Purgatorio",
+   "id_autor": 13,
+   "portada": "img/Raul1.jpg",
+   "editorial": "Editorial Universita",
+   "paginas": 100,
+   "año": 1979,
+   "sinopsis": "Obra fundacional de la poesía postdictadura chilena."
+ },
+ {
+   "id": 62,
+   "titulo": "El amor de Chile",
+   "id_autor": 13,
+   "portada": "img/Raul2.jpg",
+   "editorial": "Editorial Universita",
+   "paginas": 110,
+   "año": 1984,
+   "sinopsis": "Poesía patriótica y afectiva bajo la represión política."
+ },
+ {
+   "id": 63,
+   "titulo": "Anteparaíso",
+   "id_autor": 13,
+   "portada": "img/Raul3.jpg",
+   "editorial": "Editorial Universita",
+   "paginas": 150,
+   "año": 1982,
+   "sinopsis": "Poemas visuales grabados incluso en el desierto de Atacama."
+ },
+ {
+   "id": 64,
+   "titulo": "La vida nueva",
+   "id_autor": 13,
+   "portada": "img/Raul4.jpg",
+   "editorial": "Editorial Universita",
+   "paginas": 200,
+   "año": 1994,
+   "sinopsis": "Viaje poético hacia la esperanza colectiva."
+ },
+ {
+   "id": 65,
+   "titulo": "Canto a su amor desaparecido",
+   "id_autor": 13,
+   "portada": "img/Raul5.jpg",
+   "editorial": "LOM Ediciones",
+   "paginas": 180,
+   "año": 2015,
+   "sinopsis": "Compilación íntima y amorosa de sus versos más personales."
+ },
+ {
+   "id": 66,
+   "titulo": "Obra Completa",
+   "id_autor": 14,
+   "portada": "img/Antonio1.jpg",
+   "editorial": "Editorial Ayacucho",
+   "paginas": 130,
+   "año": 1921,
+   "sinopsis": "Prosas breves que fusionan lo lírico y lo trágico."
+ },
+ {
+   "id": 67,
+   "titulo": "Las formas del fuego",
+   "id_autor": 14,
+   "portada": "img/Antonio2.jpg",
+   "editorial": "Editorial Ayacucho",
+   "paginas": 150,
+   "año": 1929,
+   "sinopsis": "Poesía en prosa de corte simbolista y existencial."
+ },
+ {
+   "id": 68,
+   "titulo": "La torre de Timón",
+   "id_autor": 14,
+   "portada": "img/Antonio3.jpg",
+   "editorial": "Editorial Ayacucho",
+   "paginas": 100,
+   "año": 1925,
+   "sinopsis": "Breves narraciones poéticas de estilo oscuro."
+ },
+ {
+   "id": 69,
+   "titulo": "Antología",
+   "id_autor": 14,
+   "portada": "img/Antonio4.jpg",
+   "editorial": "Editorial Ayacucho",
+   "paginas": 110,
+   "año": 1929,
+   "sinopsis": "Metáforas celestes para retratar el alma humana."
+ },
+ {
+   "id": 70,
+   "titulo": "Insomnio",
+   "id_autor": 14,
+   "portada": "img/Antonio5.jpg",
+   "editorial": "Editorial Ayacucho",
+   "paginas": 90,
+   "año": 1925,
+   "sinopsis": "Crónica poética inspirada en las exploraciones del científico."
+ },
+ {
+   "id": 71,
+   "titulo": "Confabulario",
+   "id_autor": 15,
+   "portada": "img/Arreola1.jpg",
+   "editorial": "FCE",
+   "paginas": 180,
+   "año": 1952,
+   "sinopsis": "Cuentos breves llenos de ironía y fantasía."
+ },
+ {
+   "id": 72,
+   "titulo": "La feria",
+   "id_autor": 15,
+   "portada": "img/Arreola2.jpg",
+   "editorial": "FCE",
+   "paginas": 200,
+   "año": 1963,
+   "sinopsis": "Retrato coral y fragmentario de un pueblo mexicano."
+ },
+ {
+   "id": 73,
+   "titulo": "Bestiario",
+   "id_autor": 15,
+   "portada": "img/Arreola3.jpg",
+   "editorial": "FCE",
+   "paginas": 90,
+   "año": 1959,
+   "sinopsis": "Animales fantásticos como símbolos de la condición humana."
+ },
+ {
+   "id": 74,
+   "titulo": "El guardagujas",
+   "id_autor": 15,
+   "portada": "img/Arreola4.jpg",
+   "editorial": "FCE",
+   "paginas": 140,
+   "año": 1991,
+   "sinopsis": "Cuentos filosóficos sobre la locura y el genio."
+ },
+ {
+   "id": 75,
+   "titulo": "La migala",
+   "id_autor": 15,
+   "portada": "img/Arreola5.jpg",
+   "editorial": "FCE",
+   "paginas": 160,
+   "año": 1985,
+   "sinopsis": "Reflexiones personales con humor y sabiduría."
+ },
+ {
+   "id": 76,
+   "titulo": "La estatua de sal",
+   "id_autor": 16,
+   "portada": "img/Salvador1.jpg",
+   "editorial": "Editorial Joaquín Mo",
+   "paginas": 200,
+   "año": 1998,
+   "sinopsis": "Autobiografía póstuma que narra la vida homosexual en la Ciudad de México en las décadas de 1910 y 1920."
+ },
+ {
+   "id": 77,
+   "titulo": "Nuevo Amor",
+   "id_autor": 16,
+   "portada": "img/Salvador2.jpg",
+   "editorial": "Editorial Joaquín Mo",
+   "paginas": 300,
+   "año": 1953,
+   "sinopsis": "Crónicas de la vida cotidiana en México durante el periodo presidencial de Adolfo Ruiz Cortines."
+ },
+ {
+   "id": 78,
+   "titulo": "Cocina mexicana",
+   "id_autor": 16,
+   "portada": "img/Salvador3.jpg",
+   "editorial": "FCE",
+   "paginas": 500,
+   "año": 1974,
+   "sinopsis": "Compilación de toda la obra poética de Salvador Novo."
+ },
+ {
+   "id": 79,
+   "titulo": "Los paseos de la ciudad de México",
+   "id_autor": 16,
+   "portada": "img/Salvador4.jpg",
+   "editorial": "FCE",
+   "paginas": 600,
+   "año": 1975,
+   "sinopsis": "Edición integral de las obras literarias de Salvador Novo."
+ },
+ {
+   "id": 80,
+   "titulo": "Las aves en la poesía castellana",
+   "id_autor": 16,
+   "portada": "img/Salvador5.jpg",
+   "editorial": "FCE",
+   "paginas": 400,
+   "año": 1960,
+   "sinopsis": "Antología que reúne a los principales poetas mexicanos contemporáneos."
+ },
+ {
+   "id": 81,
+   "titulo": "Adán Buenosayres",
+   "id_autor": 17,
+   "portada": "img/Leopoldo1.jpg",
+   "editorial": "Seix Barral",
+   "paginas": 700,
+   "año": 1948,
+   "sinopsis": "Novela que fusiona mitología, filosofía y literatura argentina."
+ },
+ {
+   "id": 82,
+   "titulo": "El banquete de Severo Arcángelo",
+   "id_autor": 17,
+   "portada": "img/Leopoldo2.jpg",
+   "editorial": "Seix Barral",
+   "paginas": 400,
+   "año": 1966,
+   "sinopsis": "Novela de suspenso y aventuras con tintes esotéricos."
+ },
+ {
+   "id": 83,
+   "titulo": "Megafón o la guerra",
+   "id_autor": 17,
+   "portada": "img/Leopoldo3.jpg",
+   "editorial": "Seix Barral",
+   "paginas": 350,
+   "año": 1970,
+   "sinopsis": "Obra que reflexiona sobre la violencia y la guerra."
+ },
+ {
+   "id": 84,
+   "titulo": "Largo día de cólera",
+   "id_autor": 17,
+   "portada": "img/Leopoldo4.jpg",
+   "editorial": "Seix Barral",
+   "paginas": 250,
+   "año": 1961,
+   "sinopsis": "Colección de relatos que exploran temas de amor y moralidad."
+ },
+ {
+   "id": 85,
+   "titulo": "Don Juan: drama en tres actos",
+   "id_autor": 17,
+   "portada": "img/Leopoldo5.jpg",
+   "editorial": "Seix Barral",
+   "paginas": 150,
+   "año": 1964,
+   "sinopsis": "Poema épico que narra la creación de un robot."
+ },
+ {
+   "id": 86,
+   "titulo": "Alguma poesia",
+   "id_autor": 18,
+   "portada": "img/Carlos1.jpg",
+   "editorial": "Editora do Autor",
+   "paginas": 150,
+   "año": 1930,
+   "sinopsis": "Primer libro de poemas que marca el inicio de su carrera literaria."
+ },
+ {
+   "id": 87,
+   "titulo": "Claro Enigma",
+   "id_autor": 18,
+   "portada": "img/Carlos2.jpg",
+   "editorial": "Editora do Autor",
+   "paginas": 200,
+   "año": 1934,
+   "sinopsis": "Colección de poemas que exploran la vida en el noreste de Brasil."
+ },
+ {
+   "id": 88,
+   "titulo": "Sentimento do mundo",
+   "id_autor": 18,
+   "portada": "img/Carlos3.jpg",
+   "editorial": "Editora do Autor",
+   "paginas": 180,
+   "año": 1940,
+   "sinopsis": "Obra que refleja las tensiones políticas y sociales de la época."
+ },
+ {
+   "id": 89,
+   "titulo": "José",
+   "id_autor": 18,
+   "portada": "img/Carlos4.jpg",
+   "editorial": "Editora do Autor",
+   "paginas": 220,
+   "año": 1942,
+   "sinopsis": "Narrativa poética que aborda la historia de un hombre común."
+ },
+ {
+   "id": 90,
+   "titulo": "A rosa do povo",
+   "id_autor": 18,
+   "portada": "img/Carlos5.jpg",
+   "editorial": "Editora do Autor",
+   "paginas": 250,
+   "año": 1945,
+   "sinopsis": "Colección de poemas que critican la situación política de Brasil."
+ },
+ {
+   "id": 91,
+   "titulo": "Ciclo de vírgenes",
+   "id_autor": 19,
+   "portada": "img/Manuel1.jpg",
+   "editorial": "Ábside",
+   "paginas": 118,
+   "año": 2007,
+   "sinopsis": "Selección de los mejores poemas de Manuel Ponce Zavala."
+ },
+ {
+   "id": 92,
+   "titulo": "Quadragenario y segunda pasión",
+   "id_autor": 19,
+   "portada": "img/Manuel2.jpg",
+   "editorial": "Ábside",
+   "paginas": 300,
+   "año": 1980,
+   "sinopsis": "Compilación de toda la obra poética de Manuel Ponce Zavala."
+ },
+ {
+   "id": 93,
+   "titulo": "Misterios para cantar bajo los álamos",
+   "id_autor": 19,
+   "portada": "img/Manuel3.jpg",
+   "editorial": "Ábside",
+   "paginas": 250,
+   "año": 1975,
+   "sinopsis": "Obra que explora la relación entre el hombre y lo divino."
+ },
+ {
+   "id": 94,
+   "titulo": "El jardín increíble",
+   "id_autor": 19,
+   "portada": "img/Manuel4.jpg",
+   "editorial": "Ábside",
+   "paginas": 200,
+   "año": 1965,
+   "sinopsis": "Colección de poemas que reflexionan sobre la espiritualidad."
+ },
+ {
+   "id": 95,
+   "titulo": "Elegías y Teofanías",
+   "id_autor": 19,
+   "portada": "img/Manuel5.jpg",
+   "editorial": "Ábside",
+   "paginas": 150,
+   "año": 1955,
+   "sinopsis": "Poemas que transmiten un mensaje de esperanza y fe."
+ },
+ {
+   "id": 96,
+   "titulo": "Veinte poemas para ser leídos en el tranvía",
+   "id_autor": 20,
+   "portada": "veinte_poemas.jpg",
+   "editorial": "Editorial Calpe",
+   "paginas": 100,
+   "año": 1922,
+   "sinopsis": "Primer libro de poemas que marca el inicio de su carrera literaria."
+ },
+ {
+   "id": 97,
+   "titulo": "Calcomanías",
+   "id_autor": 20,
+   "portada": "calcomanias.jpg",
+   "editorial": "Editorial Calpe",
+   "paginas": 120,
+   "año": 1925,
+   "sinopsis": "Colección de poemas que exploran la vida en España."
+ },
+ {
+   "id": 98,
+   "titulo": "Espantapájaros",
+   "id_autor": 20,
+   "portada": "espantapajaros.jpg",
+   "editorial": "Editorial Proa",
+   "paginas": 150,
+   "año": 1932,
+   "sinopsis": "Obra que utiliza el poema en prosa para expresar visiones surrealistas."
+ },
+ {
+   "id": 99,
+   "titulo": "Interlunio",
+   "id_autor": 20,
+   "portada": "interlunio.jpg",
+   "editorial": "Editorial Proa",
+   "paginas": 130,
+   "año": 1937,
+   "sinopsis": "Colección de poemas que exploran la dualidad del ser."
+ },
+ {
+   "id": 100,
+   "titulo": "En la masmédula",
+   "id_autor": 20,
+   "portada": "masmedula.jpg",
+   "editorial": "Editorial Proa",
+   "paginas": 140,
+   "año": 1954,
+   "sinopsis": "Obra que reflexiona sobre la existencia y la muerte."
+ },
+ {
+   "id": 101,
+   "titulo": "Amor es más laberinto",
+   "id_autor": 21,
+   "portada": "img/Sor1.jpg",
+   "editorial": "Editorial Porrúa",
+   "paginas": 80,
+   "año": 1691,
+   "sinopsis": "Carta defendiendo el derecho de la mujer a estudiar y escribir."
+ },
+ {
+   "id": 102,
+   "titulo": "Los empeños de una casa",
+   "id_autor": 21,
+   "portada": "img/Sor2.jpg",
+   "editorial": "Editorial Porrúa",
+   "paginas": 150,
+   "año": 1689,
+   "sinopsis": "Colección de poemas barrocos que exploran la pasión y el intelecto."
+ },
+ {
+   "id": 103,
+   "titulo": "El sueño",
+   "id_autor": 21,
+   "portada": "img/Sor3.jpg",
+   "editorial": "Editorial Porrúa",
+   "paginas": 100,
+   "año": 1692,
+   "sinopsis": "Poema filosófico sobre la búsqueda del conocimiento y la iluminación."
+ },
+ {
+   "id": 104,
+   "titulo": "Inundación castálida",
+   "id_autor": 21,
+   "portada": "img/Sor4.jpg",
+   "editorial": "FCE",
+   "paginas": 400,
+   "año": 1985,
+   "sinopsis": "Compilación integral de su obra poética y teatral."
+ },
+ {
+   "id": 105,
+   "titulo": "Amor inoportuno",
+   "id_autor": 21,
+   "portada": "img/Sor5.jpg",
+   "editorial": "FCE",
+   "paginas": 200,
+   "año": 1683,
+   "sinopsis": "Comedia teatral que satiriza la sociedad novohispana."
+ },
+ {
+   "id": 106,
+   "titulo": "Desolación",
+   "id_autor": 22,
+   "portada": "img/Gabriela1.jpg",
+   "editorial": "Editorial Nascimento",
+   "paginas": 120,
+   "año": 1922,
+   "sinopsis": "Libro que refleja temas de amor, muerte y maternidad."
+ },
+ {
+   "id": 107,
+   "titulo": "Ternura",
+   "id_autor": 22,
+   "portada": "img/Gabriela2.jpg",
+   "editorial": "Editorial Nascimento",
+   "paginas": 90,
+   "año": 1924,
+   "sinopsis": "Poemas que exploran la ternura y el afecto filial."
+ },
+ {
+   "id": 108,
+   "titulo": "Lagar",
+   "id_autor": 22,
+   "portada": "img/Gabriela3.jpg",
+   "editorial": "Editorial Nascimento",
+   "paginas": 130,
+   "año": 1954,
+   "sinopsis": "Obra que mezcla la introspección con la crítica social."
+ },
+ {
+   "id": 109,
+   "titulo": "Tala",
+   "id_autor": 22,
+   "portada": "img/Gabriela4.jpg",
+   "editorial": "Editorial Nascimento",
+   "paginas": 140,
+   "año": 1938,
+   "sinopsis": "Poemas inspirados en la naturaleza y la tierra."
+ },
+ {
+   "id": 110,
+   "titulo": "Poemas de Chile",
+   "id_autor": 22,
+   "portada": "img/Gabriela5.jpg",
+   "editorial": "Editorial Nascimento",
+   "paginas": 160,
+   "año": 1967,
+   "sinopsis": "Selección de poemas dedicados a su país."
+ },
+ {
+   "id": 111,
+   "titulo": "La inquietud del rosal",
+   "id_autor": 23,
+   "portada": "img/Alfonsina1.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 100,
+   "año": 1916,
+   "sinopsis": "Poemas que exploran el amor y el sufrimiento."
+ },
+ {
+   "id": 112,
+   "titulo": "Mundo de siete pozos",
+   "id_autor": 23,
+   "portada": "img/Alfonsina2.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 120,
+   "año": 1934,
+   "sinopsis": "Obra que muestra la evolución de su pensamiento feminista."
+ },
+ {
+   "id": 113,
+   "titulo": "El dulce daño",
+   "id_autor": 23,
+   "portada": "img/Alfonsina3.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 90,
+   "año": 1918,
+   "sinopsis": "Poemas que abordan la contradicción entre dolor y placer."
+ },
+ {
+   "id": 114,
+   "titulo": "Mascarilla y trébol",
+   "id_autor": 23,
+   "portada": "img/Alfonsina4.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 110,
+   "año": 1930,
+   "sinopsis": "Poemas de crítica social y liberación femenina."
+ },
+ {
+   "id": 115,
+   "titulo": "Obras completas",
+   "id_autor": 23,
+   "portada": "img/Alfonsina5.jpg",
+   "editorial": "Editorial Losada",
+   "paginas": 300,
+   "año": 1948,
+   "sinopsis": "Compilación completa de su obra poética."
+ },
+ {
+   "id": 116,
+   "titulo": "Poemas de amor",
+   "id_autor": 24,
+   "portada": "img/Idea1.jpg",
+   "editorial": "Editorial Montevideo",
+   "paginas": 90,
+   "año": 1957,
+   "sinopsis": "Poemas sobre el amor, la pérdida y el desarraigo."
+ },
+ {
+   "id": 117,
+   "titulo": "Nocturnos",
+   "id_autor": 24,
+   "portada": "img/Idea2.jpg",
+   "editorial": "Editorial Montevideo",
+   "paginas": 110,
+   "año": 1963,
+   "sinopsis": "Obra que profundiza en la melancolía y la nostalgia."
+ },
+ {
+   "id": 118,
+   "titulo": "Poemas de odio",
+   "id_autor": 24,
+   "portada": "img/Idea3.jpg",
+   "editorial": "Editorial Montevideo",
+   "paginas": 80,
+   "año": 1963,
+   "sinopsis": "Versos que exploran la ira y el desencanto."
+ },
+ {
+   "id": 119,
+   "titulo": "Muerte y memoria",
+   "id_autor": 24,
+   "portada": "img/Idea4.jpg",
+   "editorial": "Editorial Montevideo",
+   "paginas": 100,
+   "año": 1970,
+   "sinopsis": "Poemas sobre la memoria y la muerte."
+ },
+ {
+   "id": 120,
+   "titulo": "Obra poética",
+   "id_autor": 24,
+   "portada": "img/Idea5.jpg",
+   "editorial": "Editorial Montevideo",
+   "paginas": 150,
+   "año": 1985,
+   "sinopsis": "Compilación de toda su obra."
+ },
+ {
+   "id": 121,
+   "titulo": "La última inocencia",
+   "id_autor": 25,
+   "portada": "img/Alejandra1.jpg",
+   "editorial": "Editorial Sudamerica",
+   "paginas": 90,
+   "año": 1956,
+   "sinopsis": "Poemas sobre la infancia y la inocencia perdida."
+ },
+ {
+   "id": 122,
+   "titulo": "Los trabajos y las noches",
+   "id_autor": 25,
+   "portada": "img/Alejandra2.jpg",
+   "editorial": "Editorial Sudamerica",
+   "paginas": 120,
+   "año": 1965,
+   "sinopsis": "Obra que explora la oscuridad y la angustia."
+ },
+ {
+   "id": 123,
+   "titulo": "Árbol de Diana",
+   "id_autor": 25,
+   "portada": "img/Alejandra3.jpg",
+   "editorial": "Editorial Sudamerica",
+   "paginas": 80,
+   "año": 1962,
+   "sinopsis": "Poemas sobre la mitología y la feminidad."
+ },
+ {
+   "id": 124,
+   "titulo": "Extracción de la piedra de locura",
+   "id_autor": 25,
+   "portada": "img/Alejandra4.jpg",
+   "editorial": "Editorial Sudamerica",
+   "paginas": 100,
+   "año": 1968,
+   "sinopsis": "Versos sobre la locura y la creatividad."
+ },
+ {
+   "id": 125,
+   "titulo": "Obra completa",
+   "id_autor": 25,
+   "portada": "img/Alejandra5.jpg",
+   "editorial": "Editorial Sudamerica",
+   "paginas": 150,
+   "año": 1971,
+   "sinopsis": "Compilación completa de su poesía."
+ },
+ {
+   "id": 126,
+   "titulo": "La morada del signo",
+   "id_autor": 26,
+   "portada": "img/Susana1.jpg",
+   "editorial": "Editorial Galerna",
+   "paginas": 90,
+   "año": 1973,
+   "sinopsis": "Poemas que exploran el lenguaje y la identidad."
+ },
+ {
+   "id": 127,
+   "titulo": "La letra de la ley",
+   "id_autor": 26,
+   "portada": "img/Susana2.jpg",
+   "editorial": "Editorial Galerna",
+   "paginas": 80,
+   "año": 1979,
+   "sinopsis": "Obra que cuestiona las normas sociales y poéticas."
+ },
+ {
+   "id": 128,
+   "titulo": "El libro de mis primos",
+   "id_autor": 26,
+   "portada": "img/Susana3.jpg",
+   "editorial": "Editorial Galerna",
+   "paginas": 100,
+   "año": 1984,
+   "sinopsis": "Poemas de tono íntimo y experimental."
+ },
+ {
+   "id": 129,
+   "titulo": "Incorporación de la piedra",
+   "id_autor": 26,
+   "portada": "img/Susana4.jpg",
+   "editorial": "Editorial Galerna",
+   "paginas": 120,
+   "año": 1989,
+   "sinopsis": "Versos sobre el cuerpo y el tiempo."
+ },
+ {
+   "id": 130,
+   "titulo": "Los trabajos y las noches",
+   "id_autor": 26,
+   "portada": "img/Susana5.jpg",
+   "editorial": "Editorial Galerna",
+   "paginas": 110,
+   "año": 1994,
+   "sinopsis": "Compilación de su obra poética."
+ },
+ {
+   "id": 131,
+   "titulo": "Las lenguas de diamante",
+   "id_autor": 27,
+   "portada": "img/Juana1.jpg",
+   "editorial": "Editorial Arca",
+   "paginas": 100,
+   "año": 1922,
+   "sinopsis": "Poemas que celebran la naturaleza y el amor."
+ },
+ {
+   "id": 132,
+   "titulo": "La rosa de los vientos",
+   "id_autor": 27,
+   "portada": "img/Juana2.jpg",
+   "editorial": "Editorial Arca",
+   "paginas": 90,
+   "año": 1924,
+   "sinopsis": "Versos que expresan la pasión y la espiritualidad."
+ },
+ {
+   "id": 133,
+   "titulo": "El cántaro fresco",
+   "id_autor": 27,
+   "portada": "img/Juana3.jpg",
+   "editorial": "Editorial Arca",
+   "paginas": 110,
+   "año": 1930,
+   "sinopsis": "Obra que mezcla modernismo y simbolismo."
+ },
+ {
+   "id": 134,
+   "titulo": "Raíz salvaje",
+   "id_autor": 27,
+   "portada": "img/Juana4.jpg",
+   "editorial": "Editorial Arca",
+   "paginas": 80,
+   "año": 1938,
+   "sinopsis": "Poemas sobre la fuerza y la libertad femenina."
+ },
+ {
+   "id": 135,
+   "titulo": "Obras completas",
+   "id_autor": 27,
+   "portada": "img/Juana5.jpg",
+   "editorial": "Editorial Arca",
+   "paginas": 300,
+   "año": 1950,
+   "sinopsis": "Compilación de toda su poesía."
+ },
+ {
+   "id": 136,
+   "titulo": "El viaje de la noche",
+   "id_autor": 28,
+   "portada": "img/Negroni1.jpg",
+   "editorial": "Editorial Anagrama",
+   "paginas": 120,
+   "año": 1987,
+   "sinopsis": "Poemas que exploran el exilio y la memoria."
+ },
+ {
+   "id": 137,
+   "titulo": "Las constelaciones",
+   "id_autor": 28,
+   "portada": "img/Negroni2.jpg",
+   "editorial": "Editorial Anagrama",
+   "paginas": 100,
+   "año": 1993,
+   "sinopsis": "Obra sobre el cosmos y la identidad."
+ },
+ {
+   "id": 138,
+   "titulo": "Chatarra",
+   "id_autor": 28,
+   "portada": "img/Negroni3.jpg",
+   "editorial": "Editorial Anagrama",
+   "paginas": 90,
+   "año": 2001,
+   "sinopsis": "Poemas de introspección y desarraigo."
+ },
+ {
+   "id": 139,
+   "titulo": "La jaula bajo el trapo",
+   "id_autor": 28,
+   "portada": "img/Negroni4.jpg",
+   "editorial": "Editorial Anagrama",
+   "paginas": 110,
+   "año": 2004,
+   "sinopsis": "Versos sobre la vulnerabilidad y el deseo."
+ },
+ {
+   "id": 140,
+   "titulo": "Obra poética",
+   "id_autor": 28,
+   "portada": "img/Negroni5.jpg",
+   "editorial": "Editorial Anagrama",
+   "paginas": 150,
+   "año": 2010,
+   "sinopsis": "Compilación de su obra."
+ },
+ {
+   "id": 141,
+   "titulo": "Balún Canán",
+   "id_autor": 29,
+   "portada": "img/Rosario1.jpg",
+   "editorial": "Editorial Siglo XXI",
+   "paginas": 200,
+   "año": 1957,
+   "sinopsis": "Novela que aborda temas indígenas y de género."
+ },
+ {
+   "id": 142,
+   "titulo": "Mujer que sabe latín...",
+   "id_autor": 29,
+   "portada": "img/Rosario2.jpg",
+   "editorial": "Editorial Siglo XXI",
+   "paginas": 150,
+   "año": 1973,
+   "sinopsis": "Colección de ensayos feministas y culturales."
+ },
+ {
+   "id": 143,
+   "titulo": "Poesía no eres tú",
+   "id_autor": 29,
+   "portada": "img/Rosario3.jpg",
+   "editorial": "Editorial Siglo XXI",
+   "paginas": 120,
+   "año": 1979,
+   "sinopsis": "Selección de poemas que exploran el amor y la muerte."
+ },
+ {
+   "id": 144,
+   "titulo": "Ciudad real",
+   "id_autor": 29,
+   "portada": "img/Rosario4.jpg",
+   "editorial": "Editorial Siglo XXI",
+   "paginas": 180,
+   "año": 1960,
+   "sinopsis": "Obra que denuncia la injusticia social."
+ },
+ {
+   "id": 145,
+   "titulo": "Obras completas",
+   "id_autor": 29,
+   "portada": "img/Rosario5.jpg",
+   "editorial": "FCE",
+   "paginas": 350,
+   "año": 1985,
+   "sinopsis": "Compilación integral de su obra."
+ },
+ {
+   "id": 146,
+   "titulo": "Los cálices vacíos",
+   "id_autor": 30,
+   "portada": "img/Delmira1.jpg",
+   "editorial": "Editorial Linardi y ",
+   "paginas": 90,
+   "año": 1907,
+   "sinopsis": "Poemas que expresan deseo y muerte."
+ },
+ {
+   "id": 147,
+   "titulo": "Los cálices llenos",
+   "id_autor": 30,
+   "portada": "img/Delmira2.jpg",
+   "editorial": "Editorial Linardi y ",
+   "paginas": 100,
+   "año": 1913,
+   "sinopsis": "Obra que continúa su exploración del erotismo y la pasión."
+ },
+ {
+   "id": 148,
+   "titulo": "Obras completas",
+   "id_autor": 30,
+   "portada": "img/Delmira3.jpg",
+   "editorial": "Editorial Linardi y ",
+   "paginas": 200,
+   "año": 1948,
+   "sinopsis": "Compilación de su poesía."
+ },
+ {
+   "id": 149,
+   "titulo": "La rosa de los vientos",
+   "id_autor": 30,
+   "portada": "img/Delmira4.jpg",
+   "editorial": "Editorial Linardi y ",
+   "paginas": 110,
+   "año": 1910,
+   "sinopsis": "Poemas simbolistas y modernistas."
+ },
+ {
+   "id": 150,
+   "titulo": "El libro blanco",
+   "id_autor": 30,
+   "portada": "img/Delmira5.jpg",
+   "editorial": "Editorial Linardi y ",
+   "paginas": 80,
+   "año": 1918,
+   "sinopsis": "Poemas sobre la pureza y la espiritualidad."
+ },
+ {
+   "id": 151,
+   "titulo": "La niebla y el arlequín",
+   "id_autor": 31,
+   "portada": "img/Delia1.jpg",
+   "editorial": "Editorial Andes",
+   "paginas": 110,
+   "año": 1980,
+   "sinopsis": "Poesía que explora el misterio y lo oculto."
+ },
+ {
+   "id": 152,
+   "titulo": "La voz oculta",
+   "id_autor": 31,
+   "portada": "img/Delia2.jpg",
+   "editorial": "Editorial Andes",
+   "paginas": 95,
+   "año": 1985,
+   "sinopsis": "Versos sobre la memoria y la identidad."
+ },
+ {
+   "id": 153,
+   "titulo": "Alguien pasa",
+   "id_autor": 31,
+   "portada": "img/Delia3.jpg",
+   "editorial": "Editorial Andes",
+   "paginas": 120,
+   "año": 1990,
+   "sinopsis": "Obra que reflexiona sobre el paso del tiempo."
+ },
+ {
+   "id": 154,
+   "titulo": "La huella y el vuelo",
+   "id_autor": 31,
+   "portada": "img/Delia4.jpg",
+   "editorial": "Editorial Andes",
+   "paginas": 130,
+   "año": 1995,
+   "sinopsis": "Poemas sobre el amor y la naturaleza."
+ },
+ {
+   "id": 155,
+   "titulo": "Poemas reunidos",
+   "id_autor": 31,
+   "portada": "img/Delia5.jpg",
+   "editorial": "Editorial Andes",
+   "paginas": 200,
+   "año": 2000,
+   "sinopsis": "Compilación de su obra poética."
+ },
+ {
+   "id": 156,
+   "titulo": "En el revés del cielo",
+   "id_autor": 32,
+   "portada": "img/Olga1.jpg",
+   "editorial": "Editorial Planeta",
+   "paginas": 115,
+   "año": 1960,
+   "sinopsis": "Poesía de tono surrealista y místico."
+ },
+ {
+   "id": 157,
+   "titulo": "Museo salvaje",
+   "id_autor": 32,
+   "portada": "img/Olga2.jpg",
+   "editorial": "Editorial Planeta",
+   "paginas": 120,
+   "año": 1965,
+   "sinopsis": "Obra que fusiona lo fantástico con lo cotidiano."
+ },
+ {
+   "id": 158,
+   "titulo": "El país de las tinieblas",
+   "id_autor": 32,
+   "portada": "img/Olga3.jpg",
+   "editorial": "Editorial Planeta",
+   "paginas": 100,
+   "año": 1970,
+   "sinopsis": "Versos que exploran la oscuridad interior."
+ },
+ {
+   "id": 159,
+   "titulo": "Los juegos peligrosos",
+   "id_autor": 32,
+   "portada": "img/Olga4.jpg",
+   "editorial": "Editorial Planeta",
+   "paginas": 90,
+   "año": 1975,
+   "sinopsis": "Poemas sobre el deseo y el peligro."
+ },
+ {
+   "id": 160,
+   "titulo": "Obras completas",
+   "id_autor": 32,
+   "portada": "img/Olga5.jpg",
+   "editorial": "Editorial Planeta",
+   "paginas": 250,
+   "año": 1980,
+   "sinopsis": "Compilación integral de su poesía."
+ },
+ {
+   "id": 161,
+   "titulo": "Jardín",
+   "id_autor": 33,
+   "portada": "img/Dulce1.jpg",
+   "editorial": "Editorial Letras Cub",
+   "paginas": 95,
+   "año": 1930,
+   "sinopsis": "Poemas sobre la naturaleza y el amor."
+ },
+ {
+   "id": 162,
+   "titulo": "Versos sencillos",
+   "id_autor": 33,
+   "portada": "img/Dulce2.jpg",
+   "editorial": "Editorial Letras Cub",
+   "paginas": 90,
+   "año": 1935,
+   "sinopsis": "Versos de estilo simple y emotivo."
+ },
+ {
+   "id": 163,
+   "titulo": "Poemas escritos en el exilio",
+   "id_autor": 33,
+   "portada": "img/Dulce3.jpg",
+   "editorial": "Editorial Letras Cub",
+   "paginas": 110,
+   "año": 1940,
+   "sinopsis": "Poesía de la experiencia del exilio."
+ },
+ {
+   "id": 164,
+   "titulo": "Obras completas",
+   "id_autor": 33,
+   "portada": "img/Dulce4.jpg",
+   "editorial": "Editorial Letras Cub",
+   "paginas": 200,
+   "año": 1950,
+   "sinopsis": "Compilación de toda su obra."
+ },
+ {
+   "id": 165,
+   "titulo": "Nueve poemas",
+   "id_autor": 33,
+   "portada": "img/Dulce5.jpg",
+   "editorial": "Editorial Letras Cub",
+   "paginas": 80,
+   "año": 1960,
+   "sinopsis": "Selección de poemas representativos."
+ },
+ {
+   "id": 166,
+   "titulo": "Versos de vida y esperanza",
+   "id_autor": 34,
+   "portada": "img/Violeta1.jpg",
+   "editorial": "Editorial Chilena",
+   "paginas": 100,
+   "año": 1950,
+   "sinopsis": "Poemas y canciones populares."
+ },
+ {
+   "id": 167,
+   "titulo": "Canciones folklóricas",
+   "id_autor": 34,
+   "portada": "img/Violeta2.jpg",
+   "editorial": "Editorial Chilena",
+   "paginas": 110,
+   "año": 1955,
+   "sinopsis": "Colección de canciones folklóricas chilenas."
+ },
+ {
+   "id": 168,
+   "titulo": "Poemas y canciones",
+   "id_autor": 34,
+   "portada": "img/Violeta3.jpg",
+   "editorial": "Editorial Chilena",
+   "paginas": 120,
+   "año": 1960,
+   "sinopsis": "Obra que une poesía y música tradicional."
+ },
+ {
+   "id": 169,
+   "titulo": "Obras completas",
+   "id_autor": 34,
+   "portada": "img/Violeta4.jpg",
+   "editorial": "Editorial Chilena",
+   "paginas": 250,
+   "año": 1970,
+   "sinopsis": "Compilación integral de su obra artística."
+ },
+ {
+   "id": 170,
+   "titulo": "Canto para una semilla",
+   "id_autor": 34,
+   "portada": "img/Violeta5.jpg",
+   "editorial": "Editorial Chilena",
+   "paginas": 130,
+   "año": 1975,
+   "sinopsis": "Obra emblemática inspirada en su vida."
+ },
+ {
+   "id": 171,
+   "titulo": "La mujer habitada",
+   "id_autor": 35,
+   "portada": "img/Gioconda1.jpg",
+   "editorial": "Editorial Alfaguara",
+   "paginas": 300,
+   "año": 1988,
+   "sinopsis": "Novela que explora identidad y política."
+ },
+ {
+   "id": 172,
+   "titulo": "El país bajo mi piel",
+   "id_autor": 35,
+   "portada": "img/Gioconda2.jpg",
+   "editorial": "Editorial Alfaguara",
+   "paginas": 250,
+   "año": 1990,
+   "sinopsis": "Poemas de compromiso social y amor."
+ },
+ {
+   "id": 173,
+   "titulo": "Árbol de Diana",
+   "id_autor": 35,
+   "portada": "img/Gioconda3.jpg",
+   "editorial": "Editorial Alfaguara",
+   "paginas": 120,
+   "año": 1995,
+   "sinopsis": "Poesía feminista y de libertad."
+ },
+ {
+   "id": 174,
+   "titulo": "Línea de fuego",
+   "id_autor": 35,
+   "portada": "img/Gioconda4.jpg",
+   "editorial": "Editorial Alfaguara",
+   "paginas": 140,
+   "año": 2000,
+   "sinopsis": "Versos intensos y políticos."
+ },
+ {
+   "id": 175,
+   "titulo": "Obras reunidas",
+   "id_autor": 35,
+   "portada": "img/Gioconda5.jpg",
+   "editorial": "Editorial Alfaguara",
+   "paginas": 350,
+   "año": 2005,
+   "sinopsis": "Compilación de su obra literaria."
+ },
+ {
+   "id": 176,
+   "titulo": "Al norte de la sangre",
+   "id_autor": 36,
+   "portada": "img/Ana1.jpg",
+   "editorial": "Editorial Monte Ávil",
+   "paginas": 120,
+   "año": 1972,
+   "sinopsis": "Poemas que exploran la identidad y el exilio."
+ },
+ {
+   "id": 177,
+   "titulo": "Casa de hablas",
+   "id_autor": 36,
+   "portada": "img/Ana2.jpg",
+   "editorial": "Editorial Monte Ávil",
+   "paginas": 130,
+   "año": 1980,
+   "sinopsis": "Versos sobre el lenguaje y la memoria."
+ },
+ {
+   "id": 178,
+   "titulo": "Del tiempo y el espacio",
+   "id_autor": 36,
+   "portada": "img/Ana3.jpg",
+   "editorial": "Editorial Monte Ávil",
+   "paginas": 110,
+   "año": 1985,
+   "sinopsis": "Poesía que mezcla lo cósmico con lo personal."
+ },
+ {
+   "id": 179,
+   "titulo": "Libro de la noche y el mar",
+   "id_autor": 36,
+   "portada": "img/Ana4.jpg",
+   "editorial": "Editorial Monte Ávil",
+   "paginas": 140,
+   "año": 1990,
+   "sinopsis": "Obra que reflexiona sobre la naturaleza y la existencia."
+ },
+ {
+   "id": 180,
+   "titulo": "Piedra de habla",
+   "id_autor": 36,
+   "portada": "img/Ana5.jpg",
+   "editorial": "Editorial Monte Ávil",
+   "paginas": 150,
+   "año": 1995,
+   "sinopsis": "Poemas sobre la voz y el silencio."
+ },
+ {
+   "id": 181,
+   "titulo": "Palabra dada",
+   "id_autor": 37,
+   "portada": "img/Ida1.jpg",
+   "editorial": "Editorial Lumen",
+   "paginas": 100,
+   "año": 1953,
+   "sinopsis": "Poesía que explora el lenguaje y la realidad."
+ },
+ {
+   "id": 182,
+   "titulo": "La luz de esta memoria",
+   "id_autor": 37,
+   "portada": "img/Ida2.jpg",
+   "editorial": "Editorial Lumen",
+   "paginas": 110,
+   "año": 1960,
+   "sinopsis": "Versos sobre el tiempo y la memoria."
+ },
+ {
+   "id": 183,
+   "titulo": "No hay piedra que no sea lluvia",
+   "id_autor": 37,
+   "portada": "img/Ida3.jpg",
+   "editorial": "Editorial Lumen",
+   "paginas": 120,
+   "año": 1970,
+   "sinopsis": "Poesía de intensa sensibilidad y simbolismo."
+ },
+ {
+   "id": 184,
+   "titulo": "Reducción del infinito",
+   "id_autor": 37,
+   "portada": "img/Ida4.jpg",
+   "editorial": "Editorial Lumen",
+   "paginas": 130,
+   "año": 1980,
+   "sinopsis": "Poemas sobre la presencia y el vacío."
+ },
+ {
+   "id": 185,
+   "titulo": "Escrito a fuego",
+   "id_autor": 37,
+   "portada": "img/Ida5.jpg",
+   "editorial": "Editorial Lumen",
+   "paginas": 140,
+   "año": 1990,
+   "sinopsis": "Obra que combina memoria y reflexión."
+ },
+ {
+   "id": 186,
+   "titulo": "El sol y su eco",
+   "id_autor": 38,
+   "portada": "img/Marosa1.jpg",
+   "editorial": "Editorial Arca",
+   "paginas": 115,
+   "año": 1971,
+   "sinopsis": "Poesía onírica y surrealista."
+ },
+ {
+   "id": 187,
+   "titulo": "Los papeles salvajes",
+   "id_autor": 38,
+   "portada": "img/Marosa2.jpg",
+   "editorial": "Editorial Arca",
+   "paginas": 125,
+   "año": 1974,
+   "sinopsis": "Obra llena de imágenes fantásticas."
+ },
+ {
+   "id": 188,
+   "titulo": "El diablo en el pelo",
+   "id_autor": 38,
+   "portada": "img/Marosa3.jpg",
+   "editorial": "Editorial Arca",
+   "paginas": 110,
+   "año": 1977,
+   "sinopsis": "Poemas que mezclan lo real y lo mágico."
+ },
+ {
+   "id": 189,
+   "titulo": "La guerra de los huertos",
+   "id_autor": 38,
+   "portada": "img/Marosa4.jpg",
+   "editorial": "Editorial Arca",
+   "paginas": 120,
+   "año": 1981,
+   "sinopsis": "Versos sobre la vida y la naturaleza."
+ },
+ {
+   "id": 190,
+   "titulo": "Los mundos de arriba",
+   "id_autor": 38,
+   "portada": "img/Marosa5.jpg",
+   "editorial": "Editorial Arca",
+   "paginas": 130,
+   "año": 1985,
+   "sinopsis": "Poesía que explora otros planos de realidad."
+ },
+ {
+   "id": 191,
+   "titulo": "Para un cordero blanco",
+   "id_autor": 39,
+   "portada": "img/Reina1.jpg",
+   "editorial": "Editorial Letras Cub",
+   "paginas": 120,
+   "año": 1991,
+   "sinopsis": "Poesía que explora la identidad y el cuerpo."
+ },
+ {
+   "id": 192,
+   "titulo": "Variedades de Galiano",
+   "id_autor": 39,
+   "portada": "img/Reina2.jpg",
+   "editorial": "Editorial Letras Cub",
+   "paginas": 130,
+   "año": 1995,
+   "sinopsis": "Versos sobre la vida y la memoria."
+ },
+ {
+   "id": 193,
+   "titulo": "Cuando una mujer no duerme",
+   "id_autor": 39,
+   "portada": "img/Reina3.jpg",
+   "editorial": "Editorial Letras Cub",
+   "paginas": 140,
+   "año": 2000,
+   "sinopsis": "Poemas sobre la creación y el lenguaje."
+ },
+ {
+   "id": 194,
+   "titulo": "Las fotos de la Señora Loss",
+   "id_autor": 39,
+   "portada": "img/Reina4.jpg",
+   "editorial": "Editorial Letras Cub",
+   "paginas": 110,
+   "año": 2005,
+   "sinopsis": "Obra que reflexiona sobre el amor y el tiempo."
+ },
+ {
+   "id": 195,
+   "titulo": "La foto del invernadero",
+   "id_autor": 39,
+   "portada": "img/Reina5.jpg",
+   "editorial": "Editorial Letras Cub",
+   "paginas": 125,
+   "año": 2010,
+   "sinopsis": "Poesía sobre la memoria y el olvido."
+ },
+ {
+   "id": 196,
+   "titulo": "Cuarto de hotel",
+   "id_autor": 40,
+   "portada": "img/Coral1.jpg",
+   "editorial": "Ediciones Era",
+   "paginas": 63,
+   "año": 2007,
+   "sinopsis": "¿Qué cuarto? ¿Qué hotel? se preguntará el lector de este libro redondo y sugerente cuyos trazos sencillos y efectos complejos recuerdan las acuarelas que integran la blancura del papel para transmitir la sorpresa de la obra de arte. El cuarto es uno mismo; el cuarto es el mundo; es la memoria o la identidad; o es, en efecto, un cuarto de hotel, o de hospital; o un país."
+ },
+ {
+   "id": 197,
+   "titulo": "Debe ser un malentendido",
+   "id_autor": 40,
+   "portada": "img/Coral2.jpg",
+   "editorial": "Ediciones Era",
+   "paginas": 100,
+   "año": 2018,
+   "sinopsis": "Coral Bracho hace de esa “negación” de la memoria capaz de rechazar y ordenar a su arbitrio, y ya descoyuntada aquí por el Alzheimer, su materia de trabajo: la memoria y sus universos paralelos, cables cruzados y uróboros, su simultánea cualidad de archivo vacío y de hallazgo, de avidez de sentido y pérdida de goznes claves, se perciben aquí con la minuciosidad quirúrgica de Bracho, pero, también, con un nuevo estremecimiento."
+ },
+ {
+   "id": 198,
+   "titulo": "La voluntad del ámbar",
+   "id_autor": 40,
+   "portada": "img/Coral3.jpg",
+   "editorial": "Ediciones Era",
+   "paginas": 140,
+   "año": 1992,
+   "sinopsis": "Por medio del roce inesperado de los vocablos, de la fruición deleitada en el trato con el lenguaje, de la construcción incesante e hipnótica de una eufonía insólita, esta poesía –acaso la más original y renovadora que se ha escrito en México en los últimos veinticinco años– nos acerca a mundos creados en el seno de instantes reveladores. Epifanías de la extrañeza y el vértigo, estos poemas recorren caminos fascinantes."
+ },
+ {
+   "id": 199,
+   "titulo": "Ese espacio, ese jardín",
+   "id_autor": 40,
+   "portada": "img/Coral4.jpg",
+   "editorial": "Ediciones Era",
+   "paginas": 71,
+   "año": 1998,
+   "sinopsis": "La escritura poética de Coral Bracho transcurre como la vida misma, teje el hilo del tiempo y ahí mismo, al suceder, se consume. Se hace, se deshace y se rehace como un ciclo natural: por eso su tiempo es también el tempo de un respirar consciente de su milagro vital, de su hilación entre fragmentaciones. "
+ },
+ {
+   "id": 200,
+   "titulo": "Huellas de luz",
+   "id_autor": 40,
+   "portada": "img/Coral5.jpg",
+   "editorial": "Ediciones Era",
+   "paginas": 128,
+   "año": 2000,
+   "sinopsis": "En la poesía de Coral Bracho, la naturaleza entra en el lenguaje –trémula paradoja– sin haber nunca salido de él: desdoblándolo y replegándolo, desatando dentro de la sonoridad de las palabras un movimiento incesante, esmaltando cada ángulo y cada vértice con brillos y humedades inéditos."
+ }
+]
