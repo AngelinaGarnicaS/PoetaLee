@@ -1,0 +1,170 @@
+/* Fuente por defecto y colores base */
+body {
+  font-family: 'Georgia', serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f1e9;
+  color: #000000;
+}
+
+/* Estructura general */
+html, body {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+/* Encabezado */
+header {
+  background-color: #8d7966;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.titulo {
+  margin-top: 10px;
+  font-size: 2.5em;
+  color: #f8f1e9;
+}
+
+.btn-regresar {
+  display: inline-block;
+  margin-top: 15px;
+  text-decoration: none;
+  color: #e9e0d8;
+  font-weight: bold;
+  border: 2px solid #e9e0d8;
+  padding: 6px 14px;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+/* Contenedor de poetas */
+#poeta-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  padding: 40px 20px;
+}
+
+.tarjeta-poeta {
+  width: 100%;
+  max-width: 250px;
+  text-align: center;
+  background-color: #fffafa;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  transition: transform 0.3s ease;
+}
+
+.tarjeta-poeta:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+.tarjeta-poeta h2 {
+  color: #574c43;
+  font-size: 1.3em;
+  margin: 10px 0;
+}
+
+.tarjeta-poeta p {
+  color: #2f2f2f;
+  font-size: 1em;
+}
+
+.tarjeta-poeta a {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: #8d7966;
+  font-weight: bold;
+}
+
+/* Imagen de poeta */
+.poeta-imagen {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+  filter: grayscale(100%);
+}
+
+/* Footer */
+footer {
+  margin-top: auto;
+  padding: 10px;
+  text-align: center;
+  background-color: #8d7966;
+  color: white;
+}
+
+/* Buscador */
+#buscador,
+#nacionalidad-filter {
+  width: 90%;
+  max-width: 500px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  font-size: 16px;
+  box-sizing: border-box;
+  background-color: #e9e0d8;
+}
+
+/* Responsive: ajustes para pantallas pequeñas */
+@media (max-width: 768px) {
+  .titulo {
+    font-size: 1.6em;
+    margin-top: 5px;
+  }
+
+  #buscador,
+  #nacionalidad-filter {
+    font-size: 14px;
+  }
+
+  .tarjeta-poeta {
+    width: 90%;
+    padding: 15px;
+  }
+
+  .poeta-imagen {
+    width: 100%;
+    height: auto;
+  }
+
+  footer {
+    font-size: 0.9em;
+  }
+}
+
+@media (max-width: 480px) {
+  .titulo {
+    font-size: 1.4em;
+  }
+
+  #buscador,
+  #nacionalidad-filter {
+    font-size: 13px;
+  }
+
+  .tarjeta-poeta {
+    padding: 12px;
+  }
+
+  footer {
+    padding: 8px;
+  }
+}

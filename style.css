@@ -1,0 +1,197 @@
+/* Fuente Roboto desde Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f1e9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #8d7966;
+    color: #f8f1e9;
+    padding: 20px 0;
+    border-bottom: 5px solid #8d7966;
+    animation: slideDown 1s ease-out;
+}
+
+header .logo-titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+header img {
+    height: 100px;
+    width: 100px;
+    border-radius: 8px;
+}
+
+header h1 {
+    font-size: 2.2rem;
+    margin: 0;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+@keyframes slideDown {
+    0% { transform: translateY(-100%); }
+    100% { transform: translateY(0); }
+}
+
+main {
+    padding: 40px;
+    margin: 0 auto;
+    max-width: 1100px;
+    animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+h3 {
+    font-size: 1.4rem;
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 400;
+}
+
+section {
+    margin-bottom: 30px;
+    padding: 25px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+section:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+h2 {
+    font-size: 2rem;
+    color: #553c17;
+    margin-bottom: 10px;
+    text-align: center;
+    transition: color 0.3s ease;
+}
+
+h2:hover {
+    color: #b18e4d;
+}
+
+p {
+    font-size: 1rem;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+footer {
+    background-color: #8d7966;
+    color: #f8f1e9;
+    text-align: center;
+    padding: 15px 0;
+    position: relative;
+    width: 100%;
+    border-top: 5px solid #8d7966;
+    font-size: 1rem;
+    animation: slideUp 1s ease-out;
+}
+
+@keyframes slideUp {
+    0% { transform: translateY(100%); }
+    100% { transform: translateY(0); }
+}
+
+/* Media queries para diseño móvil */
+@media (max-width: 768px) {
+    main {
+        padding: 20px;
+    }
+
+    header .logo-titulo {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    section {
+        padding: 15px;
+    }
+
+    h2 {
+        font-size: 1.6rem;
+    }
+}
+
+/* Estilos para links */
+a:hover {
+    text-decoration: none;
+    color: #b18e4d;
+}
+
+.info-box {
+    background-color: #ffffff;
+    border-left: 6px solid #b18e4d;
+    margin-bottom: 30px;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+    transition: all 0.3s ease;
+}
+
+.info-box:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.1);
+}
+
+.info-box h2 {
+    font-size: 1.6rem;
+    color: #b18e4d;
+    text-align: center;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+
+.info-box ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.info-box ul li {
+    text-align: center;
+    font-size: 1rem;
+    margin: 8px 0;
+    color: #333;
+    padding: 5px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.info-box ul li:last-child {
+    border-bottom: none;
+}
+
+.escuela p {
+    text-align: center;
+    margin: 10px 0;
+    color: #444;
+}

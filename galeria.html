@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es-mx">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PoetaLee</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header>
+    <br>
+    <h1 class="titulo">Escritores literarios latinoamericanos</h1>
+    <h3><a href="index.html" class="btn-regresar">Regresar</a></h3>
+    
+    <!-- Campo de búsqueda -->
+    <input type="text" id="buscador" placeholder="Buscar por nombre..." oninput="buscarPoetas()">
+  
+    <!-- Filtro de nacionalidad
+    <select id="nacionalidad-filter" onchange="filtrarPorNacionalidad()">
+      <option value="">Filtrar por nacionalidad</option>
+       Aquí se llenarán las opciones de nacionalidades
+    </select> -->
+  </header>
+
+  <main>
+    <div id="poeta-container"></div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Página de Poetas. Todos los derechos reservados.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
